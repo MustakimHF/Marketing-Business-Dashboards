@@ -143,11 +143,11 @@ This project shows that you can:
 ## 🔒 Notes
 
 - `warehouse.duckdb` and large CSV exports are excluded from GitHub.  
-- Only scripts, README, and small exports are committed.  
-- Recruiters see the dashboards directly in screenshots or via shared Tableau Public link.  
+- Only scripts, README, and small exports are committed.    
 
 ---
 
 ## 📄 Licence
 
 MIT Licence – free to use and adapt.
+
