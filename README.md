@@ -121,9 +121,11 @@ Exports clean CSVs into `data/exports/` for use in **Power BI**, **Tableau**, or
 
 ---
 
-## 📊 Example Dashboard (Power BI)
+## 📊 Example Dashboard 
 
 ![Power BI Dashboard](outputs/screenshots/powerbi_dashboard.png)
+
+![Tableau Dashboard]<img width="1201" height="858" alt="image" src="https://github.com/user-attachments/assets/6a5cc7c4-1df3-4efd-833f-5608aff05535" />
 
 ---
 
@@ -135,8 +137,6 @@ This project shows that you can:
 - Transform and model data using **SQL + DuckDB**.  
 - Build **professional dashboards** in both **Power BI** and **Tableau**.  
 - Communicate insights with **clear business framing**.  
-
-📌 Perfect for an internship portfolio: demonstrates **analytics, BI, and communication skills**.  
 
 ---
 
@@ -150,4 +150,5 @@ This project shows that you can:
 ## 📄 Licence
 
 MIT Licence – free to use and adapt.
+
 
