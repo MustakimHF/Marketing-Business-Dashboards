@@ -123,9 +123,12 @@ Exports clean CSVs into `data/exports/` for use in **Power BI**, **Tableau**, or
 
 ## 📊 Example Dashboard 
 
-![Power BI Dashboard](outputs/screenshots/powerbi_dashboard.png)
+### PowerBI
+<img width="1515" height="850" alt="image" src="https://github.com/user-attachments/assets/b24566e9-b799-4f0c-9f4f-e3075248be23" />
 
-![Tableau Dashboard]<img width="1201" height="858" alt="image" src="https://github.com/user-attachments/assets/6a5cc7c4-1df3-4efd-833f-5608aff05535" />
+
+### Tableau 
+<img width="1201" height="858" alt="image" src="https://github.com/user-attachments/assets/6a5cc7c4-1df3-4efd-833f-5608aff05535" />
 
 ---
 
@@ -150,5 +153,6 @@ This project shows that you can:
 ## 📄 Licence
 
 MIT Licence – free to use and adapt.
+
 
 
