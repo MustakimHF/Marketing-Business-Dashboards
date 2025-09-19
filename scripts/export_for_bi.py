@@ -13,7 +13,7 @@ XLSX.parent.mkdir(parents=True, exist_ok=True)
 con = duckdb.connect(str(DB))
 tabs = {
     "touches_sessionised": con.execute("SELECT * FROM touches_sessionised").fetchdf(),
-    "events":              con.execute("SELECT * FROM raw_events").fetchdf(),
+    "events":              con.execute("SELECT * FROM events_enriched").fetchdf(),
     "channel_campaign_summary": con.execute("SELECT * FROM channel_campaign_summary").fetchdf()
 }
 with pd.ExcelWriter(XLSX, engine="openpyxl") as xw:
