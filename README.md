@@ -94,24 +94,6 @@ python scripts/export_for_bi.py
 
 Exports clean CSVs into `data/exports/` for use in **Power BI**, **Tableau**, or **Excel**.
 
-### 6. Build dashboards
-
-#### In **Power BI Desktop**:
-
-- Load the exported CSVs (`touches_sessionised.csv`, `events.csv`, `channel_campaign_summary.csv`).  
-- Build visuals:  
-  - **KPI cards**: Total Revenue, Conversions, ROAS, CAC, CVR  
-  - **Bar chart**: Revenue by channel & campaign  
-  - **Line chart**: Revenue or Conversions over time  
-  - **Matrix**: Channel × Campaign with conditional formatting  
-  - **Slicers**: date, channel, campaign  
-
-#### In **Tableau Public**:
-
-- Connect to the same CSVs.  
-- Create worksheets for KPIs, bar charts, and time series.  
-- Assemble an interactive dashboard with filters (date, channel, campaign).  
-
 ---
 
 ## 📊 Example Dashboards
@@ -146,3 +128,4 @@ This project shows that you can:
 ## 📄 Licence
 
 MIT Licence – free to use and adapt.
+
